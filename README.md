@@ -2,4 +2,4 @@ Computing Education Portfolio
 
 Derek Hwang, Fa21
 
-Link to [Videos](Videos/Links.md)
+Site: https://derek-hwang27.github.io/Computing-Education-Portfolio/
